@@ -22,4 +22,4 @@ Kieran and I ended up placing 36 out of 46 teams and, more respectfully, accumul
 
 
 .. |WCC_2013_Logo| image:: |filename|images/WCC_logo(15th).png
-.. |WCC_2013_Rec_Doubles| image:: |filename|images/RecDoubles.png
+.. |WCC_2013_Rec_Doubles| image:: |filename|images/RecDoubles.jpg
