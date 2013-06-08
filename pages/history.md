@@ -1,0 +1,21 @@
+Title: History
+
+![Crokinoleboardcirca1867](|filename|../images/crokinoleboardcirca1867.jpg.scaled1000.jpg)
+
+From [Wikipedia](http://en.wikipedia.org/wiki/Crokinole):
+
+The earliest known crokinole board was made by craftsman Eckhardt Wettlaufer
+in 1876 in Perth County, Ontario, Canada. Several other home-made boards of
+southwestern Ontario origin, and dating from the 1870s, have been discovered
+since the 1990s. It seems to have been patented on April 20, 1880, in New York
+City by Joshua K. Ingalls.
+
+Crokinole is often believed to be of Mennonite or Amish origins, but there is
+no factual data to support such a claim. The reason for this misconception may
+be due to its popularity in Mennonite and Amish groups. The game was viewed as
+a rather innocuous pastime – unlike the perception that diversions such as
+card playing or dancing were considered "works of the Devil" as held by many
+19th-century Protestant groups. The oldest roots of crokinole, from the 1860s,
+suggest the British and South Asian games are the most likely antecedents of
+what became crokinole.
+
