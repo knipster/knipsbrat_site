@@ -5,6 +5,7 @@ Recreational Doubles - WCC 2013
 :category: Competition
 :tags: WCC 
 :slug: 2013-wcc-singles
+:status: draft
 
 |WCC_2013_Logo|
 
