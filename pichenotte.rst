@@ -22,4 +22,4 @@ It certainly is a work of art.  A crokinole board in every way, the posts are qu
 
 Most foreign, however, were the pucks, which were made of a plastic and cut in such a strange shape that they do not have a solid surface in contact with the board.
 
-`image:: |filename|images/pichenotte_pucks.jpg`_
+![Pichenotte Pucks](|filename|/images/pichenotte_pucks.jpg)

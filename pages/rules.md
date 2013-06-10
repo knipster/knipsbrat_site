@@ -35,7 +35,5 @@ predetermined winning score is reached.
 The[ National Crokinole
 Association](http://www.nationalcrokinoleassociation.com/) (of Canada)
 sanctions tournament play across Canada and the [World Crokinole
-Championship](http://www.worldcrokinole.com/) in Tavistock, ON.  The [NCA rule
-s](http://www.nationalcrokinoleassociation.com/resources/NCA%20Rules%20Feb%209
-,%202011.pdf) are available online.
+Championship](http://www.worldcrokinole.com/) in Tavistock, ON.  The [NCA rules](http://www.nationalcrokinoleassociation.com/resources/NCA%20Rules%20Feb%209,%202011.pdf) are available online.
 
