@@ -1,6 +1,6 @@
-Recreational Doubles - WCC 2013
+Adult Singles - WCC 2013
 ##################################
-:date: 2013-06-01 15:30
+:date: 2013-06-15 12:30
 :author: Demian
 :category: Competition
 :tags: WCC 
