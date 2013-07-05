@@ -1,9 +1,8 @@
-NCA Tour Finale at St. Jacob's
-##############################
-:date: 2012-05-05 08:52
-:author: Demian
-:category: Competition
-:slug: nca-tour-finale-at-st-jacobs
+Title: NCA Tour Finale at St. Jacob's
+Date: 2012-05-05 08:52
+Author: Demian
+Category: Competition
+Slug: nca-tour-finale-at-st-jacobs
 
 The NCA (National Crokinole Association) Tour begins the first Saturday
 of each June with the World Crokinole Championships in Tavistock, ON.
@@ -18,4 +17,3 @@ hoping Nathan Walsh gets some more quality video.
 As a game well suited for "obsessives," it's great to see so much
 commitment for such a small community. Good luck to the tournament
 organizers and competitors today.
-

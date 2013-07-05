@@ -1,24 +1,18 @@
-Puzzler board arrived
-#####################
-:date: 2012-02-11 14:46
-:author: Demian
-:category: Boards
-:slug: puzzlerboardarrived
+Title: Puzzler board arrived
+Date: 2012-02-11 14:46
+Author: Demian
+Category: Boards
+Slug: puzzlerboardarrived
 
-.. raw:: html
-
-   <div class="p_embed p_image_embed">
-
-.. figure:: |filename|images/my_puzzler.jpeg.scaled500.jpg
-   :align: center
-   :alt: My\_puzzler
+![My Puzzler Board](|filename|images/my_puzzler.jpeg.scaled500.jpg)
 
 Murphy's Law held true as my board arrived Thursday when out of town and
 couldn't play with it. The next day, flight delays continued to separate
 me from my obsession.
 
-An email exchange with the `Joel Harper`_ (the builder), reassured me that
-he was as anxious to hear about successful shipping as I was.
+An email exchange with the [Joel
+Harper](http://myworld.ebay.com/harperaj) (the builder), reassured me
+that he was as anxious to hear about successful shipping as I was.
 Fortunately, my local Fedex and UPS delivery teams have been top notch.
 Opening the packaging, I found my board nicely wrapped in bubble wrap
 and protected by styrofoam.
@@ -42,5 +36,3 @@ Saturday, we got in some 4 player games with my wife, daughter, and son.
 The game is as much fun with 4 as with 2. The pace of play can be
 surprisingly quick, finishing a round of play in only a couple of
 minutes.
-
-.. _Joel Harper: http://myworld.ebay.com/harperaj

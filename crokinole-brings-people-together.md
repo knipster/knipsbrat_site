@@ -1,13 +1,10 @@
-Crokinole brings people together
-################################
-:date: 2012-05-01 14:27
-:author: Demian
-:category: Crokinole
-:slug: crokinole-brings-people-together
+Title: Crokinole brings people together
+Date: 2012-05-01 14:27
+Author: Demian
+Category: Crokinole
+Slug: crokinole-brings-people-together
 
-.. figure:: http://www.sumoflam.biz/ShakespeareWeb/crokinole2.jpg
-   :align: center
-   :alt: 
+![Oldest known crokinole board](http://www.sumoflam.biz/ShakespeareWeb/crokinole2.jpg)
 
 Crokinole is a game with unique culture that naturally brings people
 together. I was reminded of this while playing doubles with my brother,
@@ -44,5 +41,3 @@ Building a community?
 While I consider a "pilgramage" to Tavistock, I'm thinking my next steps
 is to organize a series of small gatherings and/or creation of a small
 club.
-
-

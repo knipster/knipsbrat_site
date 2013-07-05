@@ -1,9 +1,8 @@
-Crokinole Hangout
-#################
-:date: 2012-04-01 12:25
-:author: Demian
-:category: Crokinole
-:slug: crokinole-hangout
+Title: Crokinole Hangout
+Date: 2012-04-01 12:25
+Author: Demian
+Category: Crokinole
+Slug: crokinole-hangout
 
 Armed with an iPhone and tripod mount, my brother and I put on a live
 demonstration of crokinole for our parents.
@@ -16,4 +15,3 @@ Perhaps the WCC would consider live streaming featured tables this
 coming June from Tavistock!
 
 Could crokinole be the next 'world series of poker'?
-

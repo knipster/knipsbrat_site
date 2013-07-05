@@ -1,10 +1,8 @@
-Clockwork Crokinole: Crokinole for the PC
-#########################################
-:date: 2012-04-14 08:12
-:author: Demian
-:category: Crokinole
-:slug: clockwork-crokinole-crokinole-for-the-pc
-
+Title: Clockwork Crokinole: Crokinole for the PC
+Date: 2012-04-14 08:12
+Author: Demian
+Category: Crokinole
+Slug: clockwork-crokinole-crokinole-for-the-pc
 
 Clockwork Crokinole hit the internet this past week. It appears to have
 been developed by Evan Smith of Nova Scotia, CA (as "Mud Puddle Games")
@@ -20,4 +18,3 @@ tiresome before the first game is complete. I'll have to play a little
 more to see if the "accuracy mode" makes the game more interesting.
 
 Summary: Pass for now, but I'll be keeping my eyes out for improvements.
-

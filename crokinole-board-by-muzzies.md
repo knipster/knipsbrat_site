@@ -1,13 +1,12 @@
-Crokinole Board by Muzzies
-##########################
-:date: 2012-02-16 20:16
-:author: Demian
-:category: Boards
-:slug: crokinole-board-by-muzzies
+Title: Crokinole Board by Muzzies
+Date: 2012-02-16 20:16
+Author: Demian
+Category: Boards
+Slug: crokinole-board-by-muzzies
 
-|Muzzies|
+![Muzzies](|filename|images/IMG_2653_1.JPG)
 
-|Crokinole1|
+![Crokinole1](|filename|images/Crokinole1.jpg.scaled500.jpg)
 
 The first board I ordered arrived from Nova Scotia today. Sue shipped
 the board only 6 days ago, not bad for international postal service.
@@ -26,8 +25,3 @@ The playing surface is immaculate and finely finished. Muzzies boards
 have painted lines. I believe each concentric ring actually thickens
 slightly. Its a beautiful board. I'll have to get back to you on playing
 differences.
-
-.. |Muzzies| image:: |filename|images/IMG_2653_1.JPG
-.. _image1: http://getfile9.posterous.com/getfile/files.posterous.com/temp-2012-02-17/ocwrIrvDwhyHhihujhtwIzobexmuffgvxqCanlHgqJguHgaotDpFAzuxdzFG/Crokinole1.jpg.scaled1000.jpg
-.. |Crokinole1| image:: http://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-02-17/ocwrIrvDwhyHhihujhtwIzobexmuffgvxqCanlHgqJguHgaotDpFAzuxdzFG/Crokinole1.jpg.scaled500.jpg
-.. |image1| image:: http://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-02-17/ocwrIrvDwhyHhihujhtwIzobexmuffgvxqCanlHgqJguHgaotDpFAzuxdzFG/Crokinole1.jpg.scaled500.jpg

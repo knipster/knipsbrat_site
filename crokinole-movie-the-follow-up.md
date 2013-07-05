@@ -1,12 +1,12 @@
-Crokinole Movie: The Follow Up
-##############################
-:date: 2012-04-01 08:23
-:author: Demian
-:category: Crokinole
-:slug: crokinole-movie-the-follow-up
+Title: Crokinole Movie: The Follow Up
+Date: 2012-04-01 08:23
+Author: Demian
+Category: Crokinole
+Slug: crokinole-movie-the-follow-up
 
-So I received my copy of "Crokinole", the movie from `Crokinole Depot`_
-along with Joe Fulop's book, "It's Only Crokinole, But I Like It."
+So I received my copy of "Crokinole", the movie from [Crokinole
+Depot](http://crokinoledepot.com) along with Joe Fulop's book, "It's
+Only Crokinole, But I Like It."
 
 Given my "obsession" with the game, the movie is a great look into the
 personalities of the game. Set in 2004, it's actually a look back in
@@ -35,5 +35,3 @@ Paste wax on WCC boards.
 I do recommend this movie for fans of the game. That said, my children
 has described me as obsessed, punctuated by my 8 9 year-old son
 shouting, "My dad made me watch a **crokinole** movie!"
-
-.. _Crokinole Depot: http://crokinoledepot.com
